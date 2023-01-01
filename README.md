@@ -1,4 +1,4 @@
-## Hi 👋 My name is Mehmet Ağkuş.
+## Hi 👋
 ---
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=mehmetagkus&show_icons=true&theme=radical)
