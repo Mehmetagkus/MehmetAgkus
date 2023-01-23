@@ -1,7 +1,7 @@
 ## Hi 👋
 ---
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=mehmetagkus&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetagkus&layout=compact)](https://github.com/mehmetagkus/github-readme-stats)
 
 ---
 
