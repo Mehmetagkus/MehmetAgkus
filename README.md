@@ -7,7 +7,11 @@
 
 ## Skills
 
-![](https://skillicons.dev/icons?i=html) ![](https://steemitimages.com/50x50/https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png) ![](https://steemitimages.com/50x50/https://static.javatpoint.com/images/javascript/javascript_logo.png) ![](https://steemitimages.com/50x50/https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png) ![](https://steemitimages.com/50x50/https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/800px-Bootstrap_logo.svg.png)
+![](https://skillicons.dev/icons?i=html) 
+![](https://skillicons.dev/icons?i=css) 
+![](https://skillicons.dev/icons?i=js) 
+![](https://skillicons.dev/icons?i=sass) 
+![](https://skillicons.dev/icons?i=bootstrap) 
 
 ---
 
